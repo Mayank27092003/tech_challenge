@@ -23,8 +23,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# CSV files (optional - remove if you want to commit CSV files)
-*.csv
 
 # IDE
 .vscode/

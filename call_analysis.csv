@@ -1,0 +1,90 @@
+timestamp,transcript,summary,sentiment
+2025-09-16T11:56:15.622524,"Hello, I called yesterday about a refund for my order. The payment was deducted from my account, but I haven’t received any confirmation email. 
+The support agent told me it would take 3–5 business days, but it’s already been a week. 
+I’m really frustrated because I need that money back urgently. Can you please check the status and escalate this issue?",Customer is frustrated with delayed refund and requests status check and escalation.,negative
+2025-09-16T12:13:20.813629,"Customer: ""Hi, my internet has been down for over three hours now. I've already tried restarting my router multiple times and nothing has worked. I have a critical work deadline today and this is completely unacceptable. This is the second time this has happened this month.""
+
+Agent: ""I'm very sorry to hear about the trouble you're experiencing. I understand how frustrating that must be. Can I get your account number to look into this for you?""
+
+Customer: ""It's 555-123-4567. I just want this fixed. I'm losing valuable work time.""
+
+Agent: ""Thank you. I see your account now. It looks like there is a wider service outage in your area that our engineering team is actively working to resolve. We estimate it will be fixed within the next 2 hours.""
+
+Customer: ""Another two hours? Unbelievable. I expect to be compensated on my next bill for this downtime.""","Customer reports internet outage for over 3 hours, agent investigates and informs customer of a wider service outage with estimated 2-hour fix time, customer expresses frustration and expects compensation.",negative
+2025-09-16T12:15:39.698606,"Customer: ""Hello, I'm looking at your website and I have a question about the 'Pro' subscription plan.""
+
+Agent: ""Certainly, I can help with that. What would you like to know?""
+
+Customer: ""The feature list says it includes 'advanced reporting'. Can you give me more specific details on what that entails?""
+
+Agent: ""Of course. The advanced reporting feature allows you to create custom dashboards, export data in CSV or PDF formats, and integrates with third-party analytics platforms like Google Analytics. The standard plan only offers pre-built summary reports.""
+
+Customer: ""Okay, and is there a limit to how many custom dashboards I can create?""
+
+Agent: ""With the 'Pro' plan, you can create up to 25 custom dashboards.""
+
+Customer: ""I see. That's all I needed to know. Thank you for clarifying.""","A customer inquired about the 'Pro' subscription plan, specifically the 'advanced reporting' feature, and received detailed information from the agent, including the ability to create custom dashboards and export data.",positive
+2025-09-16T12:20:37.886999,"Customer: ""Hello, I'm looking at your website and I have a question about the 'Pro' subscription plan.""
+
+Agent: ""Certainly, I can help with that. What would you like to know?""
+
+Customer: ""The feature list says it includes 'advanced reporting'. Can you give me more specific details on what that entails?""
+
+Agent: ""Of course. The advanced reporting feature allows you to create custom dashboards, export data in CSV or PDF formats, and integrates with third-party analytics platforms like Google Analytics. The standard plan only offers pre-built summary reports.""
+
+Customer: ""Okay, and is there a limit to how many custom dashboards I can create?""
+
+Agent: ""With the 'Pro' plan, you can create up to 25 custom dashboards.""
+
+Customer: ""I see. That's all I needed to know. Thank you for clarifying.""","Customer inquired about the 'Pro' subscription plan's advanced reporting feature, specifically asking for details and limitations. Agent provided clarification on the feature's capabilities and limitations.",positive
+2025-09-17T11:02:38.611290,"[00:00:01] Agent: Thank you for calling Tech Solutions. My name is Sarah. How can I help you today?
+
+[00:00:05] Caller: Hi, yes. I'm having a problem with my internet connection. It's been down for about an hour.
+
+[00:00:10] Agent: I see. I can certainly look into that for you. Could I please get your account number or the full name on the account?
+
+[00:00:16] Caller: The name is John Smith.
+
+[00:00:19] Agent: Thank you, John. One moment while I pull up your details. [Keyboard typing sounds] Okay, I see your account. I'm not showing any reported outages in your area, but let's run a diagnostic. Are you near your router right now?
+
+[00:00:35] Caller: Yes, I am.
+
+[00:00:36] Agent: Great. Could you please tell me what lights are on and what color they are?
+
+[00:00:41] Caller: The power light is solid green. The Wi-Fi light is blinking green. But the light with the little globe symbol is off. It's usually blue.
+
+[00:00:52] Agent: Understood. Thank you for that information. It sounds like the router isn't receiving a signal. I am going to attempt to reset the connection from my end. This will take about two to three minutes. Is it okay if I place you on a brief hold?
+
+[01:00:05] Caller: Yes, that's fine.
+
+[01:00:07] Agent: Thank you. [Hold music begins]
+
+[01:02:15] Agent: [Hold music ends] Thank you for waiting, John. I've refreshed the signal to your device. Could you check the lights on the router again for me?
+
+[01:02:24] Caller: Okay, let me see. The power is green, Wi-Fi is green... ah, the globe light is now blinking blue. Now it's solid blue.
+
+[01:02:35] Agent: That's a good sign. Could you try to open a webpage on one of your devices?
+
+[01:02:41] Caller: One second. [Pause] Yes, it's working. The page loaded.
+
+[01:02:48] Agent: Excellent. It looks like the remote reset resolved the issue. Is there anything else I can assist you with today?
+
+[01:02:54] Caller: No, that was it. Thank you for your help.
+
+[01:02:57] Agent: You're very welcome. Thank you for calling Tech Solutions, and have a great day.
+
+[01:03:01] Caller: You too. Goodbye.
+
+[01:03:02] [Call ends]","The caller, John Smith, experienced an internet connection issue that was resolved by the agent, Sarah, through a remote reset of the router.",positive
+2025-09-17T11:12:52.167807,"Good morning everyone, I’d like to remind you about the upcoming quarterly review scheduled for next Wednesday at 10 AM. The session will cover project updates from each department, followed by a discussion on resource allocation for the next quarter. Please ensure that your slides are finalized and submitted by Monday so we can consolidate them. The meeting will be held in the main conference hall, and remote participants can join via the usual video link. This is primarily an informational session, so no major decisions will be made during this time. Thank you all for your cooperation.""","The upcoming quarterly review will cover project updates and resource allocation, with finalized slides due by Monday.",positive
+2025-09-17T11:28:59.066343,"The monthly audit will begin on Thursday at 9:00 AM. Each department is required to provide transaction records, system access logs, and compliance checklists for the previous quarter. The audit team will review documents in sequence, starting with finance, then operations, and finally IT. Sessions will be conducted in meeting room B according to the published timetable. Findings will be documented and circulated internally within two weeks. Departments must acknowledge receipt of the findings within three working days. Any required follow-ups will be scheduled by the compliance office","The monthly audit will begin on Thursday at 9:00 AM, requiring departments to provide records and logs, and findings will be documented and circulated within two weeks.",neutral
+2025-09-17T11:29:17.602696,"I just want to take a moment to appreciate the incredible effort the team has put into this quarter. Our project was delivered ahead of schedule, and the client’s feedback has been overwhelmingly positive. The collaboration across departments was seamless, and the new workflow we implemented really paid off. It’s amazing to see how everyone supported one another to overcome challenges. I’m confident that if we continue working with this level of dedication, we’ll exceed expectations again next quarter. Thank you all for your hard work and commitment","The team delivered a successful project ahead of schedule with positive client feedback, thanks to seamless collaboration and a new workflow.",positive
+2025-09-17T11:35:49.677800,"The monthly audit will begin on Thursday at 9:00 AM. Each department is required to provide transaction records, system access logs, and compliance checklists for the previous quarter. The audit team will review documents in sequence, starting with finance, then operations, and finally IT. Sessions will be conducted in meeting room B according to the published timetable. Findings will be documented and circulated internally within two weeks. Departments must acknowledge receipt of the findings within three working days. Any required follow-ups will be scheduled by the compliance office","The monthly audit will begin on Thursday at 9:00 AM, requiring departments to provide records and logs for review, with findings to be documented and circulated within two weeks.",neutral
+2025-09-17T11:36:28.750069,"I just want to take a moment to appreciate the incredible effort the team has put into this quarter. Our project was delivered ahead of schedule, and the client’s feedback has been overwhelmingly positive. The collaboration across departments was seamless, and the new workflow we implemented really paid off. It’s amazing to see how everyone supported one another to overcome challenges. I’m confident that if we continue working with this level of dedication, we’ll exceed expectations again next quarter. Thank you all for your hard work and commitment","The team delivered the project ahead of schedule with positive client feedback, seamless collaboration, and a new workflow that paid off, showing dedication and commitment.",positive
+2025-09-17T11:36:45.730024,"I’ve been waiting for my refund for more than two weeks now, and every time I call, I get told to wait a few more days. This is extremely frustrating and completely unacceptable. The payment was deducted instantly when I placed the order, but I still haven’t received my money back. I feel like no one is taking responsibility, and I’m losing trust in your service. If this issue isn’t resolved immediately, I’ll have no choice but to escalate the matter and stop using your platform altogether.","Customer is frustrated with delayed refund and lack of responsibility from the service, threatening to escalate the issue and stop using the platform.",negative
+2025-09-17T12:17:19.214413,"I’ve been waiting for my refund for more than two weeks now, and every time I call, I get told to wait a few more days. This is extremely frustrating and completely unacceptable. The payment was deducted instantly when I placed the order, but I still haven’t received my money back. I feel like no one is taking responsibility, and I’m losing trust in your service. If this issue isn’t resolved immediately, I’ll have no choice but to escalate the matter and stop using your platform altogether. -ve","Customer is extremely frustrated with delayed refund and lack of responsibility from the service, threatening to escalate the issue and stop using the platform.",negative
+2025-09-17T12:17:35.441964,"The monthly audit will begin on Thursday at 9:00 AM. Each department is required to provide transaction records, system access logs, and compliance checklists for the previous quarter. The audit team will review documents in sequence, starting with finance, then operations, and finally IT. Sessions will be conducted in meeting room B according to the published timetable. Findings will be documented and circulated internally within two weeks. Departments must acknowledge receipt of the findings within three working days. Any required follow-ups will be scheduled by the compliance office","The monthly audit will begin on Thursday at 9:00 AM, requiring departments to provide records and logs for review, with findings to be documented and circulated within two weeks.",neutral
+2025-09-17T12:18:00.107037,"I just want to take a moment to appreciate the incredible effort the team has put into this quarter. Our project was delivered ahead of schedule, and the client’s feedback has been overwhelmingly positive. The collaboration across departments was seamless, and the new workflow we implemented really paid off. It’s amazing to see how everyone supported one another to overcome challenges. I’m confident that if we continue working with this level of dedication, we’ll exceed expectations again next quarter. Thank you all for your hard work and commitment","The team delivered a successful project ahead of schedule with positive client feedback, thanks to seamless collaboration and a new workflow.",positive
+2025-09-17T12:24:27.615317,"I just want to take a moment to appreciate the incredible effort the team has put into this quarter. Our project was delivered ahead of schedule, and the client’s feedback has been overwhelmingly positive. The collaboration across departments was seamless, and the new workflow we implemented really paid off. It’s amazing to see how everyone supported one another to overcome challenges. I’m confident that if we continue working with this level of dedication, we’ll exceed expectations again next quarter. Thank you all for your hard work and commitment","The team delivered the project ahead of schedule with positive client feedback, seamless collaboration, and a new workflow that paid off, showing dedication and commitment.",positive
+2025-09-17T12:24:42.672363,"he monthly audit will begin on Thursday at 9:00 AM. Each department is required to provide transaction records, system access logs, and compliance checklists for the previous quarter. The audit team will review documents in sequence, starting with finance, then operations, and finally IT. Sessions will be conducted in meeting room B according to the published timetable. Findings will be documented and circulated internally within two weeks. Departments must acknowledge receipt of the findings within three working days. Any required follow-ups will be scheduled by the compliance office","The monthly audit will begin on Thursday at 9:00 AM, requiring departments to provide records and logs for review, with findings to be documented and circulated within two weeks.",neutral
+2025-09-17T12:25:03.481943,"I’ve been waiting for my refund for more than two weeks now, and every time I call, I get told to wait a few more days. This is extremely frustrating and completely unacceptable. The payment was deducted instantly when I placed the order, but I still haven’t received my money back. I feel like no one is taking responsibility, and I’m losing trust in your service. If this issue isn’t resolved immediately, I’ll have no choice but to escalate the matter and stop using your platform altogether.","Customer is frustrated with delayed refund and lack of responsibility from service, threatening to escalate the issue and stop using the platform.",negative
